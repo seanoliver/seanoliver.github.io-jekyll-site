@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Sean Oliver</title>
+<subtitle type="text">Thoughts about marketing, products, and life.</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-08-16T20:10:09-07:00</updated>
+<id>/</id>
+<author>
+  <name>Sean Oliver</name>
+  <uri>/</uri>
+  <email>sean@seanoliver.me</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Stop worrying about Gmail's tabbed inbox]]></title>
+  <link rel="alternate" type="text/html" href="/tabbed-inbox" />
+  <id>/tabbed-inbox</id>
+  <published>2013-08-16T00:00:00-07:00</published>
+  <updated>2013-08-16T00:00:00-07:00</updated>
+  <author>
+    <name>Sean Oliver</name>
+    <uri></uri>
+    <email>sean@seanoliver.me</email>
+  </author>
+  <content type="html">&lt;p&gt;I have a small rant to share on Google’s new tabbed inbox. On one hand, I’m a Gmail user who hates sifting through countless promotions to get to the emails from people I really care about. On the other hand, I’m a marketer at a consumer web company who deals a lot with the email channel as a means of driving my business.&lt;/p&gt;
+
+&lt;p&gt;In short, I’m conflicted. &lt;/p&gt;
+
+&lt;p&gt;As a user, I love it, but as a marketer, I fear it. I see my own behavior with Google’s Tabbed Inbox manifest itself in the numbers. As my own personal open and click-thru rates decline, so do the open and click-thru rates of the camapaigns I work on. As I stop checking the “Promotions” and “Social Updates” tabs, so do thousands of Gmail users who increasingly spend time in their primary inboxes as the novelty burns in and they begin to stop checking what’s building up in those tabs.&lt;/p&gt;
+
+&lt;p&gt;I remember chuckling silently to myself has major email brands like Gilt and Groupon almost immediately humbled themselves to the mercy of Gmail’s tabs:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/660x700&quot; alt=&quot;Gilt's email campaign asking users to move them into the primary inbox.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And what’s more, I remember seeing deeper interactions fall by the wayside &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/tabbed-inbox&quot;&gt;Stop worrying about Gmail's tabbed inbox&lt;/a&gt; was originally published by Sean Oliver at &lt;a href=&quot;&quot;&gt;Sean Oliver&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Turning off Email Notifications]]></title>
+  <link rel="alternate" type="text/html" href="/email-notifications" />
+  <id>/email-notifications</id>
+  <published>2013-04-29T00:00:00-07:00</published>
+  <updated>2013-04-29T00:00:00-07:00</updated>
+  <author>
+    <name>Sean Oliver</name>
+    <uri></uri>
+    <email>sean@seanoliver.me</email>
+  </author>
+  <content type="html">&lt;p&gt;About a month ago, I decided to try an experiment and turn off email notifications on my phone and my laptop. I’d read a lot online about the benefits of turning off email notifications, but I was always afraid to try it for fear of missing something important.&lt;/p&gt;
+
+&lt;p&gt;But after a month of this, I can safely say I’m not going back. My stress level has decreased, and my ability to focus has never been better. I have a greater appreciation for the world around me, and my general happiness level has hugely improved.&lt;/p&gt;
+
+&lt;h2 id=&quot;notifications-make-everything-seem-urgent&quot;&gt;Notifications make everything seem urgent&lt;/h2&gt;
+&lt;p&gt;Notifications do everything they can to get your attention. They appear, they flash, they vibrate, they chime. They don’t let you ignore them.&lt;/p&gt;
+
+&lt;p&gt;This is really useful when they information they carry is urgent. But it usually isn’t:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Urgent:&lt;/strong&gt; A close friend was bitten by a poisonous snake and only has minutes to live. You alone possess the antidote.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Not Urgent:&lt;/strong&gt; A coworker needs to know why we’re seeing a WoW decline in DAU.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is an extreme example, but the point is very few things require an immediate reply. After turning off notifications, I find myself setting aside time to look at email when it’s convenient for me. Then I can prioritize my replies relative to all of the unread emails in my inbox, rather than processing each one as it comes in.&lt;/p&gt;
+
+&lt;h2 id=&quot;notifications-make-you-less-effective&quot;&gt;Notifications make you less effective&lt;/h2&gt;
+&lt;p&gt;No matter how you look at it, the point of a notification is to get you to pay attention to something other than what you’re doing. But there are lots of times, when you need constant, unbroken attention to get something done effectively.&lt;/p&gt;
+
+&lt;p&gt;Here’s a generic experience I’d often have before turning off notifications:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Begin working on project that requires focus.&lt;/li&gt;
+  &lt;li&gt;Receive email notification.&lt;/li&gt;
+  &lt;li&gt;Glance at it.&lt;/li&gt;
+  &lt;li&gt;Open the email and skim it.&lt;/li&gt;
+  &lt;li&gt;Consider how long it will take to respond and how urgent it is.&lt;/li&gt;
+  &lt;li&gt;Decide it’s not worth a response right now.&lt;/li&gt;
+  &lt;li&gt;Flag it.&lt;/li&gt;
+  &lt;li&gt;Remind myself what I was doing.&lt;/li&gt;
+  &lt;li&gt;Get back to work.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The whole process happens in a few seconds, so it doesn’t feel like a huge tax. But in reality, it breaks up your thought process, causing you to make mistakes and ultimately increasing the amount of time it takes to get the task done.&lt;/p&gt;
+
+&lt;h2 id=&quot;notifications-consume-your-attention&quot;&gt;Notifications consume your attention&lt;/h2&gt;
+&lt;p&gt;How many times has this happened to you?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You’re walking down the hallway.&lt;/li&gt;
+  &lt;li&gt;You receive an email notification.&lt;/li&gt;
+  &lt;li&gt;You pull out your phone and read the email, while walking.&lt;/li&gt;
+  &lt;li&gt;You you arrive at your destination.&lt;/li&gt;
+  &lt;li&gt;You put your phone away.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What was going on around you between when you started walking and when you arrived at your destination? Hard to say.&lt;/p&gt;
+
+&lt;p&gt;After a few days without notifications, I noticed how much more often I was bumping into people and having quick conversations. I realized that some of the walls of my office building were painted blue and others white. I noticed there were cherry blossom trees in the courtyard outside.&lt;/p&gt;
+
+&lt;p&gt;Without notifications, I’m getting a lot more out of my days. I have more control over my time, and I finish the things I start more quickly. I’m learning more about the people I work with, and I pay more attention to the world around me.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/email-notifications&quot;&gt;Turning off Email Notifications&lt;/a&gt; was originally published by Sean Oliver at &lt;a href=&quot;&quot;&gt;Sean Oliver&lt;/a&gt; on April 29, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Why Apple's New Ads Look Like Microsoft Made Them]]></title>
+  <link rel="alternate" type="text/html" href="/apple-ads" />
+  <id>/apple-ads</id>
+  <published>2012-07-30T00:00:00-07:00</published>
+  <updated>2012-07-30T00:00:00-07:00</updated>
+  <author>
+    <name>Sean Oliver</name>
+    <uri></uri>
+    <email>sean@seanoliver.me</email>
+  </author>
+  <content type="html">&lt;iframe width=&quot;620&quot; height=&quot;349&quot; src=&quot;//www.youtube.com/embed/CMcrw8WTWSs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I have to admit that I agree with the cacophony of criticism about Apple’s latest round of TV ads. In fact, I almost had an allergic reaction to them when I first saw them air during the Olympics opening ceremony on Friday.&lt;/p&gt;
+
+&lt;p&gt;They looked and felt like ads that my former employer, Microsoft, used to release in attempt to position themselves as being relevant. &lt;/p&gt;
+
+&lt;p&gt;So many issues abound:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They don’t show the product.&lt;/strong&gt; This is a product ad, not a brand ad or a perception ad. And Apple has always impressed me by the way that they have (almost) always made the product the star of their product ads. Consumers need to see what’s being advertised in order to understand the messaging in a tangible way. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They don’t explain the product.&lt;/strong&gt; Apple doesn’t always show the product in its ads. A great example of this is the Mac vs. PC campaign that ran through the first half of the 2000s. But that campaign still made the product the star by focusing on each ad on a discrete feature or set of related features, and explaining how they work. That’s something that this campaign utterly fails at doing. In the ad above, the Genius asks the shopper, “It came loaded with all the great apps like iMovie, iPhoto, Garageband… Not ringing a bell?” The consumer at whom this ad is targeted doesn’t know what these apps are. As a result, he doesn’t know why he should care that he doesn’t have them. And if the ad doesn’t tell him that, he’s just going to hear marketing noise and tune out.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They make the target audience feel stupid.&lt;/strong&gt; This is Apple’s first real effort going after a less tech-savvy group of computer buyers, and this ad makes it clear that they really don’t know how to talk to them at all. The people in this segment are not idiots, in fact, a lot of them are doctors, lawyers, teachers, and otherwise very smart people.They just don’t think about the latest technology all that much, and this ad basically calls them stupid for not buying a Mac. When consumers buy PCs, they are usually doing it after lots of research — after all, it’s a big purchase for most people — and this ad is essentially telling them they made the wrong decision despite all the thought they put into making what they thought was the right one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They make the Geniuses look like unsupportive know-it-alls.&lt;/strong&gt; In a similar vein, the Apple Genius in this ad comes off as a true embodiment of the elitist stereotype many have attributed to Apple’s core customer. When Apple first introduced the Geniuses, they worked because they weren’t that stereotype. No one wants to buy a computer from a cocky teenager who thinks their questions are stupid and that they’re wasting his time. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;There’s no clear call to action.&lt;/strong&gt; I’ve alluded to this a little already, but the most important thing missing from this ad is that there’s absolutely zero payoff. No moral. No happy ending. Nothing to tell the consumer what they should take away and do next. They don’t even explain that these “friendly” Geniuses can be found right by where you live at your local Apple Store. This is a product ad targeted at people who don’t know anything about the product, and Apple fails in the most fundamental way by not telling them anything about it or even where to buy it.
+When I was with Microsoft, I saw vapid creative like this get created and published all the time. It wasn’t because people at Microsoft didn’t know what they were doing. There were and there continue to be a lot of extremely talented people at Microsoft.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Collateral like this happens when there is no creative vision coming down from senior leaders. When leaders delegate the vision downward, middle managers end up having to make the final call, but in almost all cases they don’t have the power to do so alone. So, they go about securing buy-off from multiple teams, and the result was leadership by committee. Not exactly the Apple way.&lt;/p&gt;
+
+&lt;p&gt;There’s been much said about whether Tim Cook can steer the great ship that is Apple into another decade of innovation. While he may still be getting his sea legs, this ad along with other marketing blunders over the past few months make it clear that this is no longer Steve Jobs’ Apple, for better or for worse.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/apple-ads&quot;&gt;Why Apple's New Ads Look Like Microsoft Made Them&lt;/a&gt; was originally published by Sean Oliver at &lt;a href=&quot;&quot;&gt;Sean Oliver&lt;/a&gt; on July 30, 2012.&lt;/p&gt;</content>
+</entry>
+
+</feed>

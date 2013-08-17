@@ -1,0 +1,1 @@
+My personal blog about marketing, products, and life.
