@@ -2,7 +2,7 @@ title:            Sean Oliver
 tagline:          Thoughts about marketing, products, and life.
 description:      Thoughts about marketing, products, and life.
 #Comment out url when working locally to resolve base urls correctly
-url: http://seanoliver.me
+# url: http://seanoliver.me
 
 # Owner/author information
 owner:
@@ -25,6 +25,8 @@ owner:
 links:
   - title: About
     url: /about
+  - title: Subscribe
+    url: /subscribe
   - title: RSS
     url: /rss.xml
 

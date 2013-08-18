@@ -6,10 +6,6 @@
     
     
     <url>
-        <loc>/tabbed-inbox</loc>
-    </url>
-    
-    <url>
         <loc>/email-notifications</loc>
     </url>
     
