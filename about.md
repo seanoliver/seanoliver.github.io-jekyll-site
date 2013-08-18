@@ -5,7 +5,7 @@ title: About Sean
 description: Sean Oliver is a marketer and growth hacker living in San Francisco and working at LinkedIn.
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: soft-trees.jpg
+  feature: sf_fog.png
 ---
 
 I was born in a [small town](http://en.wikipedia.org/wiki/Montrose,_Pennsylvania) in northeast PA, a.k.a. "NEPA" (pronounced _nee-pa_). In 2012, the population of my hometown was 1,582. Since then, I've mostly lived in bigger towns. I currently live in San Francisco, and I love it here.
