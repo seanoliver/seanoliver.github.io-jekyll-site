@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turning off Email Notifications
+title: Turn off Email Notifications
 category: posts
 type: text
 comments: true
