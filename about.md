@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About Sean
-description: I am a marketer and growth hacker living in San Francisco and working at LinkedIn.
+description: I am a product marketer and growth hacker living in San Francisco and working at LinkedIn.
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: sf_fog.png

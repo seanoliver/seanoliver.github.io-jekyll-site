@@ -21,6 +21,8 @@ Some companies have tried to get their emails into the highly-sought "Primary In
 	<figcaption>Gilt's desperate attempt to get into the Primary Inbox</figcaption>
 </figure>
 
+
+
 Sending an email like this is like airing an ad asking people to stop fast forwarding through ads. It's pointless and it's slimy. It's not the right thing for the user; it's the right thing for your metrics.
 
 Customers are loyal to companies that care about them. They distrust companies that don't. As soon as you violate your users' trust, they become exponentially more likely to switch to an competitor or a substitute, and once they're gone, it's very costly to win them back.
