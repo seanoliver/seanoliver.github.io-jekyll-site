@@ -12,6 +12,6 @@ I was born in a [small town](http://en.wikipedia.org/wiki/Montrose,_Pennsylvania
 
 I am a product marketer at [Optimizely](http://www.optimizely.com/). In 2011, I [taught myself to code](https://github.com/seanoliver) and built my first project, [Shoflow](http://shoflow.com). I'm also working on a few other things I hope to launch soon.
 
-When I'm not [in the office](http://www.linkedin.com/in/soliver87/) or hacking away on the internet, I try to [spend my time](https://www.facebook.com/seane) learning new things. I'm currently learning how to speak Chinese and play guitar.
+When I'm not [in the office](http://www.linkedin.com/in/soliver87/) or hacking away on the internet, I try to [spend my time](https://www.facebook.com/seane) learning new things. I'm currently learning how to speak Chinese and [play guitar](https://giveit100.com/@seanoliver).
 
 Let's have coffee! [sean@seanoliver.me](mailto:sean@seanoliver.me)
