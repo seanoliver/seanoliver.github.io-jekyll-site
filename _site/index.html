@@ -19,10 +19,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Type -->
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css'>
-<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="/assets/css/entypo/entypo.css" media="all">
-<link rel='stylesheet' href='/calplus/cal.css' media='all' />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='/assets/cal.css' media='all' />
+-->
 
 
 
@@ -31,7 +34,7 @@
 
 <!-- Fresh Squeezed jQuery -->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
@@ -45,6 +48,14 @@
 
 <div id="bump">
   <body class="">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=621730737892325";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <header class="site-header darken">
       <div class="wrap">
         <hgroup>
@@ -78,7 +89,15 @@
                  <lh><h2><span class="bb">Recent Posts</span></h2></lh>
                   
                   <li>
-                    <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                        <h1><a href="/do-folder">Be More Productive with the "Do" Folder</a></h1>
+                        <p class="date"><time datetime="2013-12-22T00:00:00-08:00" itemprop="datePublished">December 22, 2013</time></p>
+                        <p class="">There's never been more to do. Here's something I do to keep track of it all.</p>
+                    </div>
+                  </li>
+                  
+                  <li>
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="/why-to-try">Why to Try</a></h1>
                         <p class="date"><time datetime="2013-10-17T00:00:00-07:00" itemprop="datePublished">October 17, 2013</time></p>
                         <p class="">Contrary to popular belief, there really is nothing wrong with trying.</p>
@@ -86,7 +105,7 @@
                   </li>
                   
                   <li>
-                    <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="/email-notifications">Turn off Email Notifications</a></h1>
                         <p class="date"><time datetime="2013-04-29T00:00:00-07:00" itemprop="datePublished">April 29, 2013</time></p>
                         <p class="">About a month ago, I decided to try an experiment and turn off email notifications on my phone and my laptop. I’d rea...</p>
@@ -94,7 +113,7 @@
                   </li>
                   
                   <li>
-                    <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                    <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="/apple-ads">Why Apple's New Ads Look Like Microsoft Made Them</a></h1>
                         <p class="date"><time datetime="2012-07-30T00:00:00-07:00" itemprop="datePublished">July 30, 2012</time></p>
                         <p class="">I have to admit that I agree with the cacophony of criticism about Apple’s latest round of TV ads. In fact, I almost ...</p>
@@ -106,26 +125,16 @@
         </section>
     </div>
 
-<!-- Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4197322-3']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 <div class="push"></div>
   <footer>
     <aside class="wrap">
       <ol class="prev-posts">
         <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="/do-folder" title="Be More Productive with the "Do" Folder">Be More Productive with the... </a></span>
+              <span class="date">Dec 22, 2013</span>
+            </li>
          <!-- for1 -->
             <li>
               <span class="recent-title"><a href="/why-to-try" title="Why to Try">Why to Try </a></span>
@@ -136,30 +145,27 @@
               <span class="recent-title"><a href="/email-notifications" title="Turn off Email Notifications">Turn off Email Notifications </a></span>
               <span class="date">Apr 29, 2013</span>
             </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="/apple-ads" title="Why Apple's New Ads Look Like Microsoft Made Them">Why Apple's New Ads Look Li... </a></span>
-              <span class="date">Jul 30, 2012</span>
-            </li>
         
       </ol>
-      
+
       <div class="social">
         <ul>
-            <li><a id="mail" href="mailto:sean@seanoliver.me"><span class="foot-link">sean@seanoliver.me</span></a></li>
+            <li><a id="mail" href="mailto:sean@seanoliver.me"><span class="foot-link">Contact Me</span></a></li>
+
             
-             
-            <li><a id="twit" href="http://twitter.com/seanoliver" target="_blank"><span class="foot-link">@seanoliver</span></a></li> 
-            
-            
-            
+            <li><a id="twit" href="http://twitter.com/seanoliver" target="_blank"><span class="foot-link">@seanoliver</span></a></li>
             
 
-            <li><a id="giveit100" href="https://giveit100.com/@seanoliver" target="_blank"><span class="foot-link">100</span></a></li>
+
+            
+
+            
+            <li><a id="drib" href="http://giveit100.com/@seanoliver" target="_blank"><span class="foot-link">100</span></a></li>
+            
         </ul>
     </div>
     </aside>
-    <small>&copy; 2013 Sean Oliver.</small>
+    <small>&copy; 2013 Sean Oliver. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
   </footer>
 
   <!-- If they're out, get some from the cellar -->
@@ -168,7 +174,7 @@
 
   <!-- Custom JS -->
   <script src="/assets/js/scripts.js"></script>
-  
+
 
   </body>
 </html>
