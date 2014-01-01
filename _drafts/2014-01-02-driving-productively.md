@@ -25,3 +25,4 @@ That's a lot of time spent looking ahead and trying to stay awake, but until [ca
 	3. Reading _movie showtimes_ aloud to figure out which one you can make
 	4. Reading _text messages_ aloud to determine if they're worth having a passenger 'ghost write' a response for you
 
+4. **Podcasts.** 
