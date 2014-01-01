@@ -5,13 +5,62 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
+<<<<<<< HEAD
 <updated>2014-01-01T12:58:22-08:00</updated>
+=======
+<updated>2014-01-01T12:25:30-08:00</updated>
+>>>>>>> bc379b56558d9d3c63b4c6aa29b24c5aa6631729
 <id>/</id>
 <author>
   <name>Sean Oliver</name>
   <uri>/</uri>
   <email>sean@seanoliver.me</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Be More Productive with the "Do" Folder]]></title>
+  <link rel="alternate" type="text/html" href="/do-folder" />
+  <id>/do-folder</id>
+  <published>2013-12-22T00:00:00-08:00</published>
+  <updated>2013-12-22T00:00:00-08:00</updated>
+  <author>
+    <name>Sean Oliver</name>
+    <uri></uri>
+    <email>sean@seanoliver.me</email>
+  </author>
+  <content type="html">&lt;p&gt;Modern tech workers have more things to do than time to do them. Requests come from every direction, and tasks pile up quickly if you’re not always trying to stay on top of it. I’ve tried a variety of GTD and task management workflows over the years, but none of them stuck. Each method took so much time to manage that it took away from time I could be spending getting things done.&lt;/p&gt;
+
+&lt;p&gt;Over time I borrowed aspects of other GTD systems and hobbled together a method that’s worked for me. It’s called the Do folder:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/do-folder.png&quot; alt=&quot;My Do Folder&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-do-folder&quot;&gt;What is the Do folder?&lt;/h2&gt;
+&lt;p&gt;On a given day I get inbound tasks from email, meetings, phone calls, texts, and so on. Keeping track of everything that has to be done takes time, and that’s where most productivity workflows tend to fall down. Over time, I’ve started to do a good job at keeping track of things in apps. I use a lot of apps to get things done, and each one has it’s own purpose. The Do folder is where I keep all those apps, all the apps I need to take action on.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-you-put-in-it&quot;&gt;What do you put in it?&lt;/h2&gt;
+&lt;p&gt;The Do folder won’t work if you don’t use it. This is why it’s important to keep a few key “anchor apps” inside. Anchor apps are apps that you’ll always use no matter what, because you have to (e.g. Mail and Calendar). &lt;/p&gt;
+
+&lt;p&gt;Then you add other apps that you &lt;strong&gt;want&lt;/strong&gt; to use. There are a lot of great apps out there that can keep you productive if you use them, but using them daily means you need to turn them into habits, and that’s hard. Adding these apps in the Do folder with your other Anchor apps ensures you’ll see them and reminds you to open them. It’s a kind of &lt;em&gt;halo effect&lt;/em&gt;, so I call them “Halo apps.”&lt;/p&gt;
+
+&lt;h3 id=&quot;my-anchor-apps&quot;&gt;My Anchor Apps&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Mailbox&lt;/em&gt;. For keeping track of the email that actually needs action taken on it. As I’ve written before, &lt;a href=&quot;/email-notifications&quot;&gt;I don’t use push notifications for email&lt;/a&gt; but Mailbox does have a useful badge notification setting I use. It shows the total count of emails in your inbox, rather than unread email only. &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Any.DO&lt;/em&gt;. This is my to do list of choice for keeping a handle on everything that needs to get done that does not come in via email. I use &lt;a href=&quot;http://lifehacker.com/5985481/anydo-moment-offers-a-quick-simple-overview-of-your-daily-to+dos&quot;&gt;Any.DO Moment&lt;/a&gt; every morning to prioritize my tasks for the day. The badge counter only shows the tasks I need to complete for that day, so when the folder is closed, the folder’s badge number shows the sum of Mailbox and Any.DO—an overall count of what needs to get done.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Calendar&lt;/em&gt;. I still prefer Apple’s default Calendar app, but their badge notifications are usually innacurate, so I turn them off entirely. Calendar is important enough to my day that I don’t need a notification to get me into it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;my-halo-apps&quot;&gt;My Halo Apps&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;MyFitnessPal&lt;/em&gt;. I use it every day to keep track of my diet and exercise and make sure that I’m generally improving my fitness. It’s part of a daily personal fitness committment I’ve made to myself, which is why it made the cut for the Do folder.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Lift&lt;/em&gt;. I use Lift to keep myself accountable for the various repeatable tasks that I want to do every day and turn into habits. I’ve had the app for a while, but only when I put it in the Do folder did I make it a daily habit.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Evernote&lt;/em&gt;. My Evernote workflow is constantly evolving. I use an ‘Inbox’ note (a la David Allen) to keep track of everything I need to organize later—things like book recommendations, notes to go into Any.DO tasks, and ideas for side projects or startup companies. Keeping it here makes sure I keep it top of mind and reorganize it when necessary.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Everyone’s different in how they get things done, so maybe this exact implementation won’t work for you. That’s fine. Maybe part of it will. At the end of the day being productive is about what you &lt;strong&gt;produce&lt;/strong&gt;. The important thing is not to overthink it and commit to the things that work.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/do-folder&quot;&gt;Be More Productive with the "Do" Folder&lt;/a&gt; was originally published by Sean Oliver at &lt;a href=&quot;&quot;&gt;Sean Oliver&lt;/a&gt; on December 22, 2013.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

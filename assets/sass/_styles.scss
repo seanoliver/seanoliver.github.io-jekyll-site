@@ -284,6 +284,9 @@ header.site-header nav {
         z-index: 2;
         background: rgba(0,0,0,.55);
     }
+    .overlay-lighter {
+        background: rgba(0,0,0,.1);
+    }
     
     .featured-image {
         vertical-align: middle;
@@ -394,7 +397,7 @@ header.site-header nav {
                 position: absolute;
                 margin-left: -70px;
                 font-size: 60px;
-                z-index: 9001; // over 9000!!!!!!!
+                z-index: 10;
                 top: -6px;
                 left: 0;
                 text-align: center;
@@ -568,6 +571,7 @@ footer {
     }
     
     small {
+        font-size: ($fs6);
         text-align: center;
         display: block;
         width: 100%;
@@ -576,6 +580,9 @@ footer {
         font-family: $sans;
         text-transform: uppercase;
         color: transparentize($white, .9);
+        a {
+            color: transparentize($white, .7);
+        }
     }
     
     .list-title {
@@ -750,7 +757,7 @@ footer {
     height: 16px;
     color: white;
     .icons {
-        font-size: 64px;
+        font-size: 32px;
     }
   }
   

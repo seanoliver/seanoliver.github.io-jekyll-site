@@ -1,5 +1,5 @@
-<!doctype html>
-<html lang="en">
+
+
 <meta charset="utf-8">
 <title>Why to Try &#8211; Sean Oliver</title>
 <meta name="description" content="Contrary to popular belief, there really is nothing wrong with trying.">
@@ -21,10 +21,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Type -->
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
-<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="/assets/css/entypo/entypo.css" media="all">
-<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/css/entypo.css" media="all">
+
+<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
+<link rel='stylesheet' href='/assets/cal.css' media='all' />
+-->
 
 
 
@@ -33,7 +36,7 @@
 
 <!-- Fresh Squeezed jQuery -->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
@@ -45,9 +48,32 @@
 <!-- 16x16 -->
 <link rel="shortcut icon" href="/favicon.ico">
 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4197322-3']);
+  _gaq.push(['_setDomainName', 'seanoliver.me']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <div id="bump">
   <body class="">
-    <header class="site-header">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=621730737892325";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <header class="site-header darken">
       <div class="wrap">
         <hgroup>
           <h1><a href="/">Sean Oliver</a></h1>
@@ -73,11 +99,8 @@
     </header>
 
 
-<section class="article">
+<section class="article pad-top">
 
-
-  <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(/images/why-to-try.jpg)"></div>
 
 
 
@@ -89,7 +112,7 @@
             <p class="intro">Contrary to popular belief, there really is nothing wrong with trying.</p>
           </hgroup>
         </header>
-    
+
         <figure class="quote">
 <blockquote><p>"No. Try not. Do... or do not. There is no try."</p></blockquote>
 	<figcaption class="attribution">
@@ -129,9 +152,42 @@
 
 <p>So try.</p>
 
-          
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Why to Try&quot;%20%20via%20&#64;seanoliver" data-dnt="true">Share</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      <div class='share-buttons'>
+	<div class='button'>
+		<!-- TWITTER -->
+		<a href="https://twitter.com/share" class="twitter-share-button" data-via="seanoliver" data-count="vertical">Tweet</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	</div>
+
+	<div class='button'>
+		<!-- FACEBOOK -->
+		<div class="fb-like" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
+	</div>
+
+	<div class='button'>
+		<!-- LINKEDIN -->
+		<script src="//platform.linkedin.com/in.js" type="text/javascript">
+		 lang: en_US
+		</script>
+		<script type="IN/Share" data-counter="top"></script>
+	</div>
+
+	<div class='button'>
+		<!-- GOOGLE PLUS -->
+		<!-- Place this tag where you want the +1 button to render. -->
+		<div class="g-plusone" data-size="tall"></div>
+
+		<!-- Place this tag after the last +1 button tag. -->
+		<script type="text/javascript">
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/platform.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+	</div>
+</div>
 
       
       <aside class="disqus">
@@ -152,32 +208,20 @@
       </aside>
       
 
-
       </article>
-
     </section>
 </div>
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4197322-3']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 
 <div class="push"></div>
   <footer>
     <aside class="wrap">
       <ol class="prev-posts">
         <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="/do-folder" title="Be More Productive with the "Do" Folder">Be More Productive with the... </a></span>
+              <span class="date">Dec 22, 2013</span>
+            </li>
          <!-- for1 -->
             <li>
               <span class="recent-title"><a href="/why-to-try" title="Why to Try">Why to Try </a></span>
@@ -188,28 +232,31 @@
               <span class="recent-title"><a href="/email-notifications" title="Turn off Email Notifications">Turn off Email Notifications </a></span>
               <span class="date">Apr 29, 2013</span>
             </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="/apple-ads" title="Why Apple's New Ads Look Like Microsoft Made Them">Why Apple's New Ads Look Li... </a></span>
-              <span class="date">Jul 30, 2012</span>
-            </li>
         
       </ol>
-      
+
       <div class="social">
         <ul>
-            <li><a id="mail" href="mailto:sean@seanoliver.me"><span class="foot-link">sean@seanoliver.me</span></a></li>
+            <li><a id="mail" href="mailto:sean@seanoliver.me"><span class="foot-link">Contact Me</span></a></li>
+
             
-             
-            <li><a id="twit" href="http://twitter.com/seanoliver" target="_blank"><span class="foot-link">@seanoliver</span></a></li> 
+            <li><a id="twit" href="http://twitter.com/seanoliver" target="_blank"><span class="foot-link">@seanoliver</span></a></li>
             
+
+
             
+
             
+            <li><a id="drib" href="http://giveit100.com/@seanoliver" target="_blank"><span class="foot-link">100</span></a></li>
             
         </ul>
     </div>
     </aside>
+<<<<<<< HEAD
     <small>&copy; 2014 Sean Oliver.</small>
+=======
+    <small>&copy; 2014 Sean Oliver. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+>>>>>>> bc379b56558d9d3c63b4c6aa29b24c5aa6631729
   </footer>
 
   <!-- If they're out, get some from the cellar -->
@@ -218,7 +265,6 @@
 
   <!-- Custom JS -->
   <script src="/assets/js/scripts.js"></script>
-  
-
   </body>
 </html>
+
