@@ -29,8 +29,6 @@
 <link rel='stylesheet' href='/assets/cal.css' media='all' />
 -->
 
-
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/i.css">
 
@@ -42,7 +40,6 @@
 
 <!-- Load Modernizr -->
 <script src="/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
-
 
 <!-- Icons -->
 <!-- 16x16 -->
@@ -83,12 +80,19 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
 
 <!-- Hello Bar Snippet -->
   <script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/2bb86ebfe91c274c1c3d84255ec9b91e1b2014b5.js"></script>
+
+<!-- Mixpanel Register User -->
+<script type='text/javascript'>
+	mixpanel.register_once({
+		original_referrer: document.referrer
+	});
+</script>
     <header class="site-header">
-      <div class="wrap">
+      <div class="wrap" id='nav'>
         <hgroup>
-          <h1><a href="/">Sean Oliver</a></h1>
+          <h1><a href="/" title="Sean Oliver">Sean Oliver</a></h1>
         </hgroup>
-        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <a href="#nav" class="menu" title="Mobile Menu Expand"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
             <li>
@@ -96,11 +100,11 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
             </li>
             
             
-                <li><a href="/about" >About</a></li>
+                <li><a href="/about"  title="About">About</a></li>
             
-                <li><a href="/subscribe" >Subscribe</a></li>
+                <li><a href="/subscribe"  title="Subscribe">Subscribe</a></li>
             
-                <li><a href="http://feeds.feedburner.com/seaneoliver" >Feed</a></li>
+                <li><a href="http://feeds.feedburner.com/seaneoliver"  title="Feed">Feed</a></li>
             
 
           </ul>
@@ -121,7 +125,7 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
         <header class="post-header">
           <hgroup>
             <h1>4 Ways to Be More Productive While Driving</h1>
-            <p class="date">Jan 01, 2014</p>
+            <p class="date">Jan 02, 2014</p>
             <p class="intro">Turn idle time behind the wheel into time well spent.</p>
           </hgroup>
         </header>
@@ -130,6 +134,7 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
 
 <p>Driving continues to be the primary way most Americans get from A to B. During this holiday seasona alone, I spent time visitng friends and family all around the <a href="http://en.wikipedia.org/wiki/Mid-Atlantic_states">Mid-Atlantic</a> to places like Philadelphia, New York, Annapolis, and Binghamton (to name a few). In fact when all is said and done, I spent a total of <em>24 hours and 8 minutes</em> driving.</p>
 
+<h2 id="driving-productivity-tips">4 Driving Productivity Tips</h2>
 <p>That’s a lot of time spent looking ahead and trying to stay awake, but until <a href="http://en.wikipedia.org/wiki/Autonomous_car">cars start driving themselves</a>, it seems like all we can do is stare at break lights and slam some Starbucks.</p>
 
 <p>Here are four things I do to be significantly more productive behind the wheel:</p>
@@ -156,10 +161,11 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
   </li>
 </ol>
 
-<p>Of course, it’s important to find a driving work flow that works for you and your situation in the car. There are times when you need to be laser-focused on the road (e.g. city driving) and there’s always the chance an accident will happen that will demand your split-second reaction times. This might seem obvious, but keep the following in mind:</p>
+<h2 id="drive-safely">Drive Safely</h2>
+<p>Of course, it’s important to find a driving work flow that works for you and your situation in the car. There are times when you need to give even more attention to the road (e.g. city driving) and there’s always the chance an accident will happen that will demand your split-second reaction times. This might seem obvious, but keep the following in mind:</p>
 
 <ul>
-  <li>Set up your device with the content you want to listen to before you start driving.</li>
+  <li>Set up your device (e.g. phone, iPad, etc.) with the content you want to listen to before you start driving.</li>
   <li>Set up your car to play the content using USB, Bluetooth, or auxilary audio before you start driving. (Don’t listen through ear buds.)</li>
   <li>Find a volume level and reading speed that allows you to focus but doesn’t take away from your ability to react to situations on the road.</li>
   <li>Listen when you’re commuting and/or on a highway. Don’t listen when you’re learning a new route or in a city environment where you have pedestrians and unexpected traffic patterns to contend with.</li>
@@ -237,7 +243,7 @@ mixpanel.init("9bf79607c28983f64809aa27a7b8d19e");</script><!-- end Mixpanel -->
          <!-- for1 -->
             <li>
               <span class="recent-title"><a href="/2014-01-02-driving-productively" title="4 Ways to Be More Productive While Driving">4 Ways to Be More Productiv... </a></span>
-              <span class="date">Jan 01, 2014</span>
+              <span class="date">Jan 02, 2014</span>
             </li>
          <!-- for1 -->
             <li>

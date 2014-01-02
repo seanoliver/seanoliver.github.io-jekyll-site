@@ -12,6 +12,7 @@ According to the Federal Highway Administration, [Americans are no longer drivin
 
 Driving continues to be the primary way most Americans get from A to B. During this holiday seasona alone, I spent time visitng friends and family all around the [Mid-Atlantic](http://en.wikipedia.org/wiki/Mid-Atlantic_states) to places like Philadelphia, New York, Annapolis, and Binghamton (to name a few). In fact when all is said and done, I spent a total of _24 hours and 8 minutes_ driving.
 
+## 4 Driving Productivity Tips
 That's a lot of time spent looking ahead and trying to stay awake, but until [cars start driving themselves](http://en.wikipedia.org/wiki/Autonomous_car), it seems like all we can do is stare at break lights and slam some Starbucks.
 
 Here are four things I do to be significantly more productive behind the wheel:
@@ -29,9 +30,10 @@ Here are four things I do to be significantly more productive behind the wheel:
 
 4. **Language Learning Podcasts.** I've been [learning Chinese](/learning-chinese) for the last 2.5 years. There are a lot of useful and entertaining Podcasts out there, but I've found the ones focused language learning have been most rewarding. Podcasts are great for language learning because (1) they're short, and (2) it's easy to replay certain sections until you get it. Plus, the editorial nature of Podcasts helps immerse you in a target language and expose you to the culture of the associated country. For those of you learning Chinese, I highly recommend [Popup Chinese](http://popupchinese.com/) and [ChinesePod](http://chinesepod.com/). You can also search [iTunes' Podcast Library](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=33) for your language of choice.
 
-Of course, it's important to find a driving work flow that works for you and your situation in the car. There are times when you need to be laser-focused on the road (e.g. city driving) and there's always the chance an accident will happen that will demand your split-second reaction times. This might seem obvious, but keep the following in mind:
+## Drive Safely
+Of course, it's important to find a driving work flow that works for you and your situation in the car. There are times when you need to give even more attention to the road (e.g. city driving) and there's always the chance an accident will happen that will demand your split-second reaction times. This might seem obvious, but keep the following in mind:
 
- - Set up your device with the content you want to listen to before you start driving.
+ - Set up your device (e.g. phone, iPad, etc.) with the content you want to listen to before you start driving.
  - Set up your car to play the content using USB, Bluetooth, or auxilary audio before you start driving. (Don't listen through ear buds.)
  - Find a volume level and reading speed that allows you to focus but doesn't take away from your ability to react to situations on the road.
  - Listen when you're commuting and/or on a highway. Don't listen when you're learning a new route or in a city environment where you have pedestrians and unexpected traffic patterns to contend with.

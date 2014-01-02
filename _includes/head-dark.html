@@ -51,11 +51,11 @@
   <body class="">
     {% include body-start.html %}
     <header class="site-header darken">
-      <div class="wrap">
+      <div class="wrap" id='nav'>
         <hgroup>
-          <h1><a href="/">{{ site.title }}</a></h1>
+          <h1><a href="/" title="{{ site.title }}">{{ site.title }}</a></h1>
         </hgroup>
-        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <a href="#nav" class="menu" title="Mobile Menu Expand"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
             <li>
@@ -63,7 +63,7 @@
             </li>
             
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %} title="{{ link.title }}">{{ link.title }}</a></li>
             {% endfor %}
 
           </ul>
