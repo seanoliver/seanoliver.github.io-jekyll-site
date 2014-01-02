@@ -13,7 +13,7 @@ According to the Federal Highway Administration, [Americans are no longer drivin
 Driving continues to be the primary way most Americans get from A to B. During this holiday seasona alone, I spent time visitng friends and family all around the [Mid-Atlantic](http://en.wikipedia.org/wiki/Mid-Atlantic_states) to places like Philadelphia, New York, Annapolis, and Binghamton (to name a few). In fact when all is said and done, I spent a total of _24 hours and 8 minutes_ driving.
 
 ## 4 Driving Productivity Tips
-That's a lot of time spent looking ahead and trying to stay awake, but until [cars start driving themselves](http://en.wikipedia.org/wiki/Autonomous_car), it seems like all we can do is stare at break lights and slam some Starbucks.
+That's a lot of time spent looking ahead and trying to stay awake, but until [cars start driving themselves](http://en.wikipedia.org/wiki/Autonomous_car), it seems like all we can do is stare at brake lights and slam some Starbucks.
 
 Here are four things I do to be significantly more productive behind the wheel:
 
