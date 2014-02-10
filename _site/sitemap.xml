@@ -6,6 +6,10 @@
     
     
     <url>
+        <loc>/driving-productively</loc>
+    </url>
+    
+    <url>
         <loc>/do-folder</loc>
     </url>
     
@@ -19,6 +23,10 @@
     
     <url>
         <loc>/apple-ads</loc>
+    </url>
+    
+    <url>
+        <loc>/learning-chinese</loc>
     </url>
     
 </urlset>

@@ -13,7 +13,7 @@ According to the Federal Highway Administration, [Americans are no longer drivin
 Driving continues to be the primary way most Americans get from A to B. During this holiday seasona alone, I spent time visitng friends and family all around the [Mid-Atlantic](http://en.wikipedia.org/wiki/Mid-Atlantic_states) to places like Philadelphia, New York, Annapolis, and Binghamton (to name a few). In fact when all is said and done, I spent a total of _24 hours and 8 minutes_ driving.
 
 ## 4 Driving Productivity Tips
-That's a lot of time spent looking ahead and trying to stay awake, but until [cars start driving themselves](http://en.wikipedia.org/wiki/Autonomous_car), it seems like all we can do is stare at brake lights and slam some Starbucks.
+That's a lot of time spent looking ahead and trying to stay awake, but until [cars start driving themselves](http://en.wikipedia.org/wiki/Autonomous_car), it seems like all we can do is stare at break lights and slam some Starbucks.
 
 Here are four things I do to be significantly more productive behind the wheel:
 
@@ -38,4 +38,4 @@ Of course, it's important to find a driving work flow that works for you and you
  - Find a volume level and reading speed that allows you to focus but doesn't take away from your ability to react to situations on the road.
  - Listen when you're commuting and/or on a highway. Don't listen when you're learning a new route or in a city environment where you have pedestrians and unexpected traffic patterns to contend with.
 
-There will soon come a time when [cars won't need humans to drive them](http://en.wikipedia.org/wiki/Google_driverless_car), but until then, it's time to start listening.
+There will soon come a time when [cars won't need humans to drive them](http://en.wikipedia.org/wiki/Google_driverless_car), but until then, it's time we started listening.
