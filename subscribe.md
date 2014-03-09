@@ -2,6 +2,8 @@
 layout: page
 permalink: /subscribe/index.html
 title: Subscribe
+tags: [marketing, startups, products, entrepreneurship, growth, hacking, productivity, life, blog]
+excerpt: I'm a product marketer in San Francisco blogging about marketing, products, productivity, and life.
 ---
 
 Like what you're reading? Get the latest updates from my blog by subscribing to my email newsletter. No spam included.

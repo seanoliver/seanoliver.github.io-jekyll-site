@@ -46,8 +46,26 @@
     </url>
     
     <url>
+        <loc>/driving-productively/</loc>
+        <lastmod>2014-01-02T00:00:00-08:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
         <loc>/do-folder/</loc>
         <lastmod>2013-12-22T00:00:00-08:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/do-folder/</loc>
+        <lastmod>2013-12-22T00:00:00-08:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/why-to-try/</loc>
+        <lastmod>2013-10-17T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -64,8 +82,26 @@
     </url>
     
     <url>
+        <loc>/email-notifications/</loc>
+        <lastmod>2013-04-29T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
         <loc>/apple-ads/</loc>
         <lastmod>2012-07-30T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/apple-ads/</loc>
+        <lastmod>2012-07-30T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/learning-chinese/</loc>
+        <lastmod>2012-05-05T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
