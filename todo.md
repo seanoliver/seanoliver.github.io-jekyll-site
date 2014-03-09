@@ -11,3 +11,4 @@
 - [ ] Support for pagination
 - [ ] Use twitter intent for follow: https://dev.twitter.com/docs/intents
 - [ ] Update responsiveness so images resize appropriately on small screens
+* [ ] Nicer fonts on index.html
