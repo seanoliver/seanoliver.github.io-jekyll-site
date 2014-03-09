@@ -4,8 +4,8 @@ pygments: true
 
 exclude: ["archive"]
 
-baseurl: /
-url: http://seanoliver.me
+# baseurl: /
+# url: http://seanoliver.me
 
 social:
   twitter: seanoliver
