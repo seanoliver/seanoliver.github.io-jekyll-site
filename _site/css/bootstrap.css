@@ -45,6 +45,11 @@
   margin-bottom: 3em;
 }
 
+.post-listing-noline {
+  padding-bottom: 1.5em;
+  margin-bottom: 3em;
+}
+
 blockquote p { 
   margin: 0px !important; 
   font-size: 1.5em;

@@ -7,7 +7,7 @@ date: 2014-03-08
 ---
 
 {% for post in site.posts %}
-<div class='post-listing'>
+<div class='{% if post == site.posts.last %}post-listing-noline{% else %}post-listing{% endif %}'>
 	<h3 class='lato-light uppercase'>
 		<small>{{ post.date | date: "%b %d %Y" }}</small><br />
 		<a class='title' href="{{ post.url }}">{{ post.title }}</a>

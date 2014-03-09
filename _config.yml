@@ -2,6 +2,9 @@ name: Sean Oliver
 markdown: redcarpet
 pygments: true
 
+exclude: ["archive"]
+
+baseurl: /
 url: http://seanoliver.me
 
 social:
