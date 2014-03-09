@@ -6,10 +6,22 @@ layout: nil
     <url>
         <loc>{{ site.url }}</loc>
     </url>
+
+    {% for link in site.links %}
+    {% if link.url != site.url %}
+    	<url>
+    		<loc>{{ site.url }}{{ link.url }}/</loc>
+         	<lastmod>{{ site.posts.first.date | date_to_xmlschema }}</lastmod>
+	        <changefreq>weekly</changefreq>
+    	</url>
+    {% endif %}
+    {% endfor %}
     
     {% for post in site.posts %}
     <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
+        <loc>{{ site.url }}{{ post.url }}/</loc>
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     {% endfor %}
 </urlset>

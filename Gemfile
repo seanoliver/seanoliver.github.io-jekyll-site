@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'jekyll-minibundle'
-gem 'coderay'
+gem 'redcarpet', '~> 2.3'
 gem 'rake'
+gem 'github-pages'

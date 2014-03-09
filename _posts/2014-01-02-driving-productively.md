@@ -1,10 +1,7 @@
 ---
 layout: post
 title: 4 Ways to Be More Productive While Driving
-description: Turn idle time behind the wheel into time well spent.
 category: articles
-image:
-  feature: driving.jpg
 comments: true
 ---
 

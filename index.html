@@ -1,0 +1,17 @@
+---
+layout: default
+title: Sean Oliver
+date: 2014-03-08
+---
+
+{% for post in site.posts %}
+<div class='post-listing'>
+	<h3 class='lato-light uppercase'>
+		<small>{{ post.date | date: "%b %d %Y" }}</small><br />
+		<a class='title' href="{{ post.url }}">{{ post.title }}</a>
+	</h3>
+	<p>
+		{{ post.excerpt | strip_html }}
+	</p>
+</div>
+{% endfor %}

@@ -3,30 +3,70 @@
     <url>
         <loc></loc>
     </url>
+
+    
+    
+    	<url>
+    		<loc>//</loc>
+         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+	        <changefreq>weekly</changefreq>
+    	</url>
+    
+    
+    
+    	<url>
+    		<loc>/about/</loc>
+         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+	        <changefreq>weekly</changefreq>
+    	</url>
+    
+    
+    
+    	<url>
+    		<loc>/subscribe/</loc>
+         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+	        <changefreq>weekly</changefreq>
+    	</url>
+    
+    
+    
+    	<url>
+    		<loc>http://feeds.feedburner.com/seaneoliver/</loc>
+         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+	        <changefreq>weekly</changefreq>
+    	</url>
+    
+    
     
     
     <url>
-        <loc>/driving-productively</loc>
+        <loc>/driving-productively/</loc>
+        <lastmod>2014-01-02T00:00:00-08:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>/do-folder</loc>
+        <loc>/do-folder/</loc>
+        <lastmod>2013-12-22T00:00:00-08:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>/why-to-try</loc>
+        <loc>/why-to-try/</loc>
+        <lastmod>2013-10-17T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>/email-notifications</loc>
+        <loc>/email-notifications/</loc>
+        <lastmod>2013-04-29T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>/apple-ads</loc>
-    </url>
-    
-    <url>
-        <loc>/learning-chinese</loc>
+        <loc>/apple-ads/</loc>
+        <lastmod>2012-07-30T00:00:00-07:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
     
 </urlset>

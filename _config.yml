@@ -1,58 +1,27 @@
-title:            Sean Oliver
-tagline:          Thoughts about marketing, products, and life.
-description:      Thoughts about marketing, products, and life.
-#Comment out url when working locally to resolve base urls correctly
+name: Sean Oliver
+markdown: redcarpet
+pygments: true
+
 # url: http://seanoliver.me
 
-# Owner/author information
-owner:
-  name:           Sean Oliver
-  avatar:         profile.jpeg
-  bio:            "Living and learning."
-  email:          sean@seanoliver.me
-  twitter:        seanoliver
-  github:         seanoliver
-  instagram:      soliver87     
-  dribbble:       
-  disqus:         seanoliver
-  facebook:       seane
-  linkedin:       soliver87
-  giveit100:      seanoliver
-
-  # Plug in your disqus shortname!
+social:
+  twitter: seanoliver
+  facebook: seane
+  linkedin: soliver87
+  github: seanoliver
+  plus: 107797469513631817514
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Blog
+    url: /
   - title: About
     url: /about
   - title: Subscribe
     url: /subscribe
   - title: Feed
     url: http://feeds.feedburner.com/seaneoliver
+    external: true
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
-future:      true
-pygments:    true
-markdown:    kramdown
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
