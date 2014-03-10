@@ -10,7 +10,7 @@ layout: nil
     {% for link in site.links %}
     {% if link.url != site.url %}
     	<url>
-    		<loc>{{ site.url }}{{ link.url }}/</loc>
+    		<loc>{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}/</loc>
          	<lastmod>{{ site.posts.first.date | date_to_xmlschema }}</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
