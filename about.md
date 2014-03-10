@@ -6,7 +6,7 @@ tags: [marketing, startups, products, entrepreneurship, growth, hacking, product
 excerpt: I'm a product marketer in San Francisco blogging about marketing, products, productivity, and life.
 ---
 
-I'm a product marketer at working [Optimizely](http://www.optimizely.com/) and living in San Francisco.
+I'm a product marketer working at [Optimizely](http://www.optimizely.com/) and living in San Francisco.
 
 I was born in a [small town](http://en.wikipedia.org/wiki/Montrose,_Pennsylvania) in northeast PA, a.k.a. "NEPA" (pronounced _nee-pa_). In 2012, the population of my hometown was 1,582. Since then, I've mostly lived in bigger towns. I currently live in San Francisco, and I love it here.
 
