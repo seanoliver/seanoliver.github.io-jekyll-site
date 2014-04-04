@@ -2,6 +2,7 @@ To Do
 ===
 - [ ] Add email signup CTA at the bottom of posts
 - [ ] Support for pagination on blog listing page
+- [ ] Add blog post title to <title> field
 
 - [ ] Use twitter intent for follow: https://dev.twitter.com/docs/intents
 - [ ] Update responsiveness so images resize appropriately on small screens

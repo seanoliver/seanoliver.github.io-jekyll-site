@@ -4,7 +4,7 @@
   <id></id>
   <link href="" />
   <link href="/atom.xml" rel="self" />
-  <updated>2014-03-20T20:04:55-07:00</updated>
+  <updated>2014-04-04T09:12:59-07:00</updated>
   <rights>Copyright 2014, Sean Oliver</rights>
   <author>
     <name>Sean Oliver</name>
@@ -12,74 +12,24 @@
   
     <entry>
       <title>Pick a Small Market</title>
-      <link href="/2013-03-17-small-markets" />
-      <summary type="html">&lt;p&gt;I recently attended a talk by Peter Thiel at LiveRamp&amp;#39;s RampUp Conference. One of the things he said really resonated with me:&lt;/p&gt;
+      <link href="/small-markets" />
+      <summary type="html">&lt;p&gt;I recently attended a talk by Peter Thiel at a conference in Mountain View. One of the things he said really resonated with me:&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Peter Thiel: &amp;quot;When you start a company, you want to get big market share as quickly as possible, so pick a small market.&amp;quot; &lt;a href=&quot;https://twitter.com/search?q=%23startups&amp;amp;src=hash&quot;&gt;#startups&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sean Oliver (@seanoliver) &lt;a href=&quot;https://twitter.com/seanoliver/statuses/439200434083749888&quot;&gt;February 28, 2014&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Peter Thiel: &amp;quot;When you start a company, you want to get big market share as quickly as possible, so pick a small market.&amp;quot; &lt;a href=&quot;https://twitter.com/search?q=%23startups&amp;amp;src=hash&quot;&gt;#startups&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sean Oliver (@seanoliver) &lt;a href=&quot;https://twitter.com/seanoliver/statuses/439200434083749888&quot;&gt;February 28, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;You may be thinking &amp;quot;well, duh.&amp;quot; What sense does it make to go after a big, expensive, diffuclt market when you have no resources?&lt;/p&gt;
+&lt;p&gt;I think it&amp;#39;s less about picking a &lt;em&gt;small&lt;/em&gt; market and more about finding a way to enter a large market that no one else is looking at.&lt;/p&gt;
 
-&lt;p&gt;In practice, it&amp;#39;s hard to pick a small market. Mostly because it&amp;#39;s hard to find a market small enough for you to get traction quickly, but large enough to sustain your business.&lt;/p&gt;
+&lt;p&gt;When Airbnb first launched, the concept of short-term rentals had already existed, but that market was small relative to the multibillion dollar hotel industry. Competing for the larger industry at the outset would&amp;#39;ve been difficult and expensive -- in all likelihood, a losing proposition.&lt;/p&gt;
 
-&lt;p&gt;This runs contrary to the popular notion that having competitors &amp;quot;validates&amp;quot; your market. And while that might be true, a validated market doesn&amp;#39;t do you much good if you&amp;#39;re losing market share to competitors.&lt;/p&gt;
+&lt;p&gt;Instead, they picked the smaller market and aggressively maximized their market share. As they captured share, they also captured resources and they built a winning marketplace that could compete with the big hotel chains.&lt;/p&gt;
 
-&lt;p&gt;The truth is, it&amp;#39;s hard to find a problem today that some company isn&amp;#39;t working on solving. Even then, the proliferation of startups has made it such that finding an unsolved problem will surely bring about copycats, looking to outdo you at your own game and capitalize.&lt;/p&gt;
+&lt;p&gt;There are countless examples like this. Successful companies (usually) don&amp;#39;t jump into direct competition with huge, multi-billion dollar corporations. They compete on the fringes for the land that&amp;#39;s not valuable enough for big companies to waste their time on. Before long, they&amp;#39;ve amassed enough of a war chest to go after the larger companies and win.&lt;/p&gt;
 
-&lt;p&gt;That&amp;#39;s why it&amp;#39;s not really about finding a small market. It&amp;#39;s about finding a competitive advantage. It&amp;#39;s about finding a defensible market position, and making it very difficult for others to encroach on your territory as quickly as possible. It isn&amp;#39;t easy for small companies to do this, that&amp;#39;s why Peter Thiel recommends finding a small market, something unsexy that few other people would be interested in getting involved in, and then expanding into other, sexier markets.&lt;/p&gt;
+&lt;p&gt;So I guess the lesson is: Pick a small market (at first).&lt;/p&gt;
 </summary>
-      <id>/2013-03-17-small-markets</id>
-      <updated>2014-03-17T09:34:11-07:00</updated>
-      <author>
-        <name>Sean Oliver</name>
-      </author>
-    </entry>
-  
-    <entry>
-      <title>Complements and Substitutes</title>
-      <link href="/2013-03-18-complements-and-substitutes" />
-      <summary type="html">&lt;p&gt;Economics teaches us the difference between complements and substitutes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Complements&lt;/strong&gt; are goods that increase in demand as demand for the original good increases.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Substitutes&lt;/strong&gt; are goods that decrease in demand as demand for the original good increases.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In other words, complements go well together, and substitutes don&amp;#39;t. Complements are things like hot dogs and hot dog buns, peanut butter and jelly, and printers and ink. Substitutes are things like cable and satellite, Coke and Pepsi, and Hefty and Glad.&lt;/p&gt;
-
-&lt;h1&gt;When complements become substitutes&lt;/h1&gt;
-
-&lt;p&gt;Popular opinion says having lots of complements makes your product more competitive. It increases the barrier to entry for potential substitutes. &lt;/p&gt;
-
-&lt;p&gt;The distinction between substitutes and complements isn&amp;#39;t as clear within the realm of technology. Countless high-tech products have crossed the line from being complements to being substitutes. Why? Because the tech industry has a long history of innovating toward convergence.&lt;/p&gt;
-
-&lt;p&gt;Here are some examples:&lt;/p&gt;
-
-&lt;h2&gt;Desktops vs. laptops&lt;/h2&gt;
-
-&lt;p&gt;There was a time when a laptop was a companion device. You&amp;#39;d bring it with you on trips to access docs and files you&amp;#39;d usually access on your desktop. At the time, laptops weren&amp;#39;t powerful enough to replace full blown desktop PCs. But then, technology improved, and people realized they didn&amp;#39;t need both a desktop and a laptop. Fast forward to today, and you&amp;#39;ll find most people only own a laptop.&lt;/p&gt;
-
-&lt;h2&gt;Cell phones vs. land lines&lt;/h2&gt;
-
-&lt;p&gt;Cell phones began as a complement to the land line, for use only in emergencies while away from home. While at home, cell phones were inconvenient to use. Since it didn&amp;#39;t ring in all rooms of the house, every member of the family didn&amp;#39;t have equal access to it like they did with the land line. But then, the need for cell phones increased, and convergence took over. Soon, every member of the family had a phone, so it didn&amp;#39;t matter that there was a land line in every room. Cell phone reception improved, plans improved, prices dropped. Today, land lines are dead.&lt;/p&gt;
-
-&lt;h2&gt;OSs vs. browsers&lt;/h2&gt;
-
-&lt;p&gt;Originally, more people with operating systems meant more people with browsers. You couldn&amp;#39;t have a browser without an OS. It was very clearly a complement. But as web applications began to behave more and more like desktop apps, the need for having the heavy software stack associated with a traditional OS became smaller and smaller. It was only a matter of time before Chromebooks and other browser-only devices started to appear on the market. The shit hasn&amp;#39;t fully taken effect yet, of course, but the direction is clear.&lt;/p&gt;
-
-&lt;p&gt;And the list goes on. Mobile devices and tablets have already made a significant dent in the PC industry, which continues to decline. Hindsight is 20/20, but it&amp;#39;s hard to know that you&amp;#39;re in a business that&amp;#39;s at risk until it&amp;#39;s too late.&lt;/p&gt;
-
-&lt;p&gt;As you think about your business strategy, it&amp;#39;s important to take a look at your complementary products and ask yourself if technological innovation can turn those complements into substitutes. If so, there&amp;#39;s little you can do other than face the fact that the technology you&amp;#39;re currently dealing in is antiquated and will die. You need to pivot your business if you want to move forward.&lt;/p&gt;
-
-&lt;p&gt;You&amp;#39;d be in good company, too. Netflix, Amazon, and Apple are just a few examples of companies who have successfully cannibalized parts of their businesses in order to prevent their complements from becoming substitutes.&lt;/p&gt;
-
-&lt;p&gt;For a long time, building a business was about developing a successful line of products or services, and then building an ever widening moat around them to defend from competitors and market conditions. But with the rate of innovation being what it is, the only option is to remain on the forefront no matter the cost.&lt;/p&gt;
-</summary>
-      <id>/2013-03-18-complements-and-substitutes</id>
-      <updated>2014-03-16T18:01:44-07:00</updated>
+      <id>/small-markets</id>
+      <updated>2014-04-04T00:00:00-07:00</updated>
       <author>
         <name>Sean Oliver</name>
       </author>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc></loc>
-        <lastmod>2014-03-17T09:34:11-07:00</lastmod>
+        <lastmod>2014-04-04T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
@@ -13,7 +13,7 @@
     
     	<url>
     		<loc>/about/</loc>
-         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
+         	<lastmod>2014-04-04T00:00:00-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
     
@@ -23,7 +23,7 @@
     
     	<url>
     		<loc>/subscribe/</loc>
-         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
+         	<lastmod>2014-04-04T00:00:00-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
     
@@ -33,7 +33,7 @@
     
     	<url>
     		<loc>http://feeds.feedburner.com/seaneoliver/</loc>
-         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
+         	<lastmod>2014-04-04T00:00:00-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
     
@@ -42,14 +42,8 @@
     
     
     <url>
-        <loc>/2013-03-17-small-markets/</loc>
-        <lastmod>2014-03-17T09:34:11-07:00</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    
-    <url>
-        <loc>/2013-03-18-complements-and-substitutes/</loc>
-        <lastmod>2014-03-16T18:01:44-07:00</lastmod>
+        <loc>/small-markets/</loc>
+        <lastmod>2014-04-04T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
