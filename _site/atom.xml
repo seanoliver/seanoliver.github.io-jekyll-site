@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text"></title>
-<subtitle type="text"></subtitle>
-<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-03-20T20:04:55-07:00</updated>
-<id>/</id>
-<author>
-  <name></name>
-  <uri>/</uri>
-  <email></email>
-</author>
-
-
-<entry>
-  <title type="html"><![CDATA[Pick a Small Market]]></title>
-  <link rel="alternate" type="text/html" href="/2013-03-17-small-markets" />
-  <id>/2013-03-17-small-markets</id>
-  <published>2014-03-17T09:34:11-07:00</published>
-  <updated>2014-03-17T09:34:11-07:00</updated>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sean Oliver</title>
+  <id></id>
+  <link href="" />
+  <link href="/atom.xml" rel="self" />
+  <updated>2014-03-20T20:04:55-07:00</updated>
+  <rights>Copyright 2014, Sean Oliver</rights>
   <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
+    <name>Sean Oliver</name>
   </author>
-  <content type="html">&lt;p&gt;I recently attended a talk by Peter Thiel at LiveRamp&amp;#39;s RampUp Conference. One of the things he said really resonated with me:&lt;/p&gt;
+  
+    <entry>
+      <title>Pick a Small Market</title>
+      <link href="/2013-03-17-small-markets" />
+      <summary type="html">&lt;p&gt;I recently attended a talk by Peter Thiel at LiveRamp&amp;#39;s RampUp Conference. One of the things he said really resonated with me:&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Peter Thiel: &amp;quot;When you start a company, you want to get big market share as quickly as possible, so pick a small market.&amp;quot; &lt;a href=&quot;https://twitter.com/search?q=%23startups&amp;amp;src=hash&quot;&gt;#startups&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sean Oliver (@seanoliver) &lt;a href=&quot;https://twitter.com/seanoliver/statuses/439200434083749888&quot;&gt;February 28, 2014&lt;/a&gt;&lt;/blockquote&gt;
@@ -41,23 +29,18 @@
 &lt;p&gt;The truth is, it&amp;#39;s hard to find a problem today that some company isn&amp;#39;t working on solving. Even then, the proliferation of startups has made it such that finding an unsolved problem will surely bring about copycats, looking to outdo you at your own game and capitalize.&lt;/p&gt;
 
 &lt;p&gt;That&amp;#39;s why it&amp;#39;s not really about finding a small market. It&amp;#39;s about finding a competitive advantage. It&amp;#39;s about finding a defensible market position, and making it very difficult for others to encroach on your territory as quickly as possible. It isn&amp;#39;t easy for small companies to do this, that&amp;#39;s why Peter Thiel recommends finding a small market, something unsexy that few other people would be interested in getting involved in, and then expanding into other, sexier markets.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/2013-03-17-small-markets&quot;&gt;Pick a Small Market&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on March 17, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Complements and Substitutes]]></title>
-  <link rel="alternate" type="text/html" href="/2013-03-18-complements-and-substitutes" />
-  <id>/2013-03-18-complements-and-substitutes</id>
-  <published>2014-03-16T18:01:44-07:00</published>
-  <updated>2014-03-16T18:01:44-07:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;Economics teaches us the difference between complements and substitutes:&lt;/p&gt;
+</summary>
+      <id>/2013-03-17-small-markets</id>
+      <updated>2014-03-17T09:34:11-07:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Complements and Substitutes</title>
+      <link href="/2013-03-18-complements-and-substitutes" />
+      <summary type="html">&lt;p&gt;Economics teaches us the difference between complements and substitutes:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Complements&lt;/strong&gt; are goods that increase in demand as demand for the original good increases.&lt;/p&gt;
@@ -94,23 +77,18 @@
 &lt;p&gt;You&amp;#39;d be in good company, too. Netflix, Amazon, and Apple are just a few examples of companies who have successfully cannibalized parts of their businesses in order to prevent their complements from becoming substitutes.&lt;/p&gt;
 
 &lt;p&gt;For a long time, building a business was about developing a successful line of products or services, and then building an ever widening moat around them to defend from competitors and market conditions. But with the rate of innovation being what it is, the only option is to remain on the forefront no matter the cost.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/2013-03-18-complements-and-substitutes&quot;&gt;Complements and Substitutes&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[4 Ways to Be More Productive While Driving]]></title>
-  <link rel="alternate" type="text/html" href="/driving-productively" />
-  <id>/driving-productively</id>
-  <published>2014-01-02T00:00:00-08:00</published>
-  <updated>2014-01-02T00:00:00-08:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;According to the Federal Highway Administration, &lt;a href=&quot;http://bigstory.ap.org/article/stats-show-americans-not-driving-anymore&quot;&gt;Americans are no longer driving as much as they once were&lt;/a&gt;. Owning a car is expensive, young people are opting to live in cities with public transit, and technology continues to reduce the need for meetings &lt;a href=&quot;http://www.urbandictionary.com/define.php?term=IRL&quot;&gt;IRL&lt;/a&gt;. However that doesn&amp;#39;t change the fact that we&amp;#39;re still a car culture.&lt;/p&gt;
+</summary>
+      <id>/2013-03-18-complements-and-substitutes</id>
+      <updated>2014-03-16T18:01:44-07:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>4 Ways to Be More Productive While Driving</title>
+      <link href="/driving-productively" />
+      <summary type="html">&lt;p&gt;According to the Federal Highway Administration, &lt;a href=&quot;http://bigstory.ap.org/article/stats-show-americans-not-driving-anymore&quot;&gt;Americans are no longer driving as much as they once were&lt;/a&gt;. Owning a car is expensive, young people are opting to live in cities with public transit, and technology continues to reduce the need for meetings &lt;a href=&quot;http://www.urbandictionary.com/define.php?term=IRL&quot;&gt;IRL&lt;/a&gt;. However that doesn&amp;#39;t change the fact that we&amp;#39;re still a car culture.&lt;/p&gt;
 
 &lt;p&gt;Driving continues to be the primary way most Americans get from A to B. During this holiday seasona alone, I spent time visitng friends and family all around the &lt;a href=&quot;http://en.wikipedia.org/wiki/Mid-Atlantic_states&quot;&gt;Mid-Atlantic&lt;/a&gt; to places like Philadelphia, New York, Annapolis, and Binghamton (to name a few). In fact when all is said and done, I spent a total of &lt;em&gt;24 hours and 8 minutes&lt;/em&gt; driving.&lt;/p&gt;
 
@@ -146,23 +124,18 @@
 &lt;/ul&gt;
 
 &lt;p&gt;There will soon come a time when &lt;a href=&quot;http://en.wikipedia.org/wiki/Google_driverless_car&quot;&gt;cars won&amp;#39;t need humans to drive them&lt;/a&gt;, but until then, it&amp;#39;s time we started listening.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/driving-productively&quot;&gt;4 Ways to Be More Productive While Driving&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on January 02, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Be More Productive with the "Do" Folder]]></title>
-  <link rel="alternate" type="text/html" href="/do-folder" />
-  <id>/do-folder</id>
-  <published>2013-12-22T00:00:00-08:00</published>
-  <updated>2013-12-22T00:00:00-08:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;Modern tech workers have more things to do than time to do them. Requests come from every direction, and tasks pile up quickly if you&amp;#39;re not always trying to stay on top of it. I&amp;#39;ve tried a variety of GTD and task management workflows over the years, but none of them stuck. Each method took so much time to manage that it took away from time I could be spending getting things done.&lt;/p&gt;
+</summary>
+      <id>/driving-productively</id>
+      <updated>2014-01-02T00:00:00-08:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Be More Productive with the &quot;Do&quot; Folder</title>
+      <link href="/do-folder" />
+      <summary type="html">&lt;p&gt;Modern tech workers have more things to do than time to do them. Requests come from every direction, and tasks pile up quickly if you&amp;#39;re not always trying to stay on top of it. I&amp;#39;ve tried a variety of GTD and task management workflows over the years, but none of them stuck. Each method took so much time to manage that it took away from time I could be spending getting things done.&lt;/p&gt;
 
 &lt;p&gt;Over time I borrowed aspects of other GTD systems and hobbled together a method that&amp;#39;s worked for me. It&amp;#39;s called the Do folder:&lt;/p&gt;
 
@@ -197,23 +170,18 @@
 &lt;/ol&gt;
 
 &lt;p&gt;Everyone&amp;#39;s different in how they get things done, so maybe this exact implementation won&amp;#39;t work for you. That&amp;#39;s fine. Maybe part of it will. At the end of the day being productive is about what you &lt;em&gt;produce&lt;/em&gt;. The important thing is not to overthink it and commit to the things that work.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/do-folder&quot;&gt;Be More Productive with the "Do" Folder&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on December 22, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Why to Try]]></title>
-  <link rel="alternate" type="text/html" href="/why-to-try" />
-  <id>/why-to-try</id>
-  <published>2013-10-17T00:00:00-07:00</published>
-  <updated>2013-10-17T00:00:00-07:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;blockquote&gt;
+</summary>
+      <id>/do-folder</id>
+      <updated>2013-12-22T00:00:00-08:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Why to Try</title>
+      <link href="/why-to-try" />
+      <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;No. Try not. Do... or do not. There is no try.
 &lt;p&gt;&lt;cite&gt;Yoda in The Empire Strikes Back, 1980&lt;/cite&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -249,23 +217,18 @@
 &lt;p&gt;But if you don’t try, you won’t do. And if you don’t do, you won’t succeed.&lt;/p&gt;
 
 &lt;p&gt;So try.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/why-to-try&quot;&gt;Why to Try&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on October 17, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Turn off Email Notifications]]></title>
-  <link rel="alternate" type="text/html" href="/email-notifications" />
-  <id>/email-notifications</id>
-  <published>2013-04-29T00:00:00-07:00</published>
-  <updated>2013-04-29T00:00:00-07:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;p&gt;About a month ago, I decided to try an experiment and turn off email notifications on my phone and my laptop. I’d read a lot online about the benefits of turning off email notifications, but I was always afraid to try it for fear of missing something important.&lt;/p&gt;
+</summary>
+      <id>/why-to-try</id>
+      <updated>2013-10-17T00:00:00-07:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Turn off Email Notifications</title>
+      <link href="/email-notifications" />
+      <summary type="html">&lt;p&gt;About a month ago, I decided to try an experiment and turn off email notifications on my phone and my laptop. I’d read a lot online about the benefits of turning off email notifications, but I was always afraid to try it for fear of missing something important.&lt;/p&gt;
 
 &lt;p&gt;But after a month of this, I can safely say I’m not going back. My stress level has decreased, and my ability to focus has never been better. I have a greater appreciation for the world around me, and my general happiness level has hugely improved.&lt;/p&gt;
 
@@ -319,23 +282,18 @@
 &lt;p&gt;After a few days without notifications, I noticed how much more often I was bumping into people and having quick conversations. I realized that some of the walls of my office building were painted blue and others white. I noticed there were cherry blossom trees in the courtyard outside.&lt;/p&gt;
 
 &lt;p&gt;Without notifications, I’m getting a lot more out of my days. I have more control over my time, and I finish the things I start more quickly. I’m learning more about the people I work with, and I pay more attention to the world around me.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/email-notifications&quot;&gt;Turn off Email Notifications&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on April 29, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Why Apple's New Ads Look Like Microsoft Made Them]]></title>
-  <link rel="alternate" type="text/html" href="/apple-ads" />
-  <id>/apple-ads</id>
-  <published>2012-07-30T00:00:00-07:00</published>
-  <updated>2012-07-30T00:00:00-07:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;iframe width=&quot;620&quot; height=&quot;349&quot; src=&quot;//www.youtube.com/embed/CMcrw8WTWSs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</summary>
+      <id>/email-notifications</id>
+      <updated>2013-04-29T00:00:00-07:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Why Apple&#39;s New Ads Look Like Microsoft Made Them</title>
+      <link href="/apple-ads" />
+      <summary type="html">&lt;iframe width=&quot;620&quot; height=&quot;349&quot; src=&quot;//www.youtube.com/embed/CMcrw8WTWSs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;I have to admit that I agree with the cacophony of criticism about Apple’s latest round of TV ads. In fact, I almost had an allergic reaction to them when I first saw them air during the Olympics opening ceremony on Friday.&lt;/p&gt;
 
@@ -355,8 +313,12 @@ When I was with Microsoft, I saw vapid creative like this get created and publis
 &lt;p&gt;Collateral like this happens when there is no creative vision coming down from senior leaders. When leaders delegate the vision downward, middle managers end up having to make the final call, but in almost all cases they don’t have the power to do so alone. So, they go about securing buy-off from multiple teams, and the result was leadership by committee. Not exactly the Apple way.&lt;/p&gt;
 
 &lt;p&gt;There’s been much said about whether Tim Cook can steer the great ship that is Apple into another decade of innovation. While he may still be getting his sea legs, this ad along with other marketing blunders over the past few months make it clear that this is no longer Steve Jobs’ Apple, for better or for worse.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/apple-ads&quot;&gt;Why Apple's New Ads Look Like Microsoft Made Them&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on July 30, 2012.&lt;/p&gt;</content>
-</entry>
-
+</summary>
+      <id>/apple-ads</id>
+      <updated>2012-07-30T00:00:00-07:00</updated>
+      <author>
+        <name>Sean Oliver</name>
+      </author>
+    </entry>
+  
 </feed>

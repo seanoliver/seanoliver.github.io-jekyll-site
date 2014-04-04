@@ -1,70 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://seanoliver.me</loc>
+        <loc></loc>
+        <lastmod>2014-03-17T09:34:11-07:00</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
 
     
     
+    
+    
+    
     	<url>
-    		<loc>http://seanoliver.me//</loc>
-         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+    		<loc>/about/</loc>
+         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
     
     
     
+    
+    
     	<url>
-    		<loc>http://seanoliver.me/about/</loc>
-         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+    		<loc>/subscribe/</loc>
+         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
     
     
     
-    	<url>
-    		<loc>http://seanoliver.me/subscribe/</loc>
-         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
-	        <changefreq>weekly</changefreq>
-    	</url>
-    
     
     
     	<url>
-    		<loc>http://seanoliver.mehttp://feeds.feedburner.com/seaneoliver/</loc>
-         	<lastmod>2014-01-02T00:00:00-08:00</lastmod>
+    		<loc>http://feeds.feedburner.com/seaneoliver/</loc>
+         	<lastmod>2014-03-17T09:34:11-07:00</lastmod>
 	        <changefreq>weekly</changefreq>
     	</url>
+    
     
     
     
     
     <url>
-        <loc>http://seanoliver.me/driving-productively/</loc>
+        <loc>/2013-03-17-small-markets/</loc>
+        <lastmod>2014-03-17T09:34:11-07:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/2013-03-18-complements-and-substitutes/</loc>
+        <lastmod>2014-03-16T18:01:44-07:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <url>
+        <loc>/driving-productively/</loc>
         <lastmod>2014-01-02T00:00:00-08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>http://seanoliver.me/do-folder/</loc>
+        <loc>/do-folder/</loc>
         <lastmod>2013-12-22T00:00:00-08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>http://seanoliver.me/why-to-try/</loc>
+        <loc>/why-to-try/</loc>
         <lastmod>2013-10-17T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>http://seanoliver.me/email-notifications/</loc>
+        <loc>/email-notifications/</loc>
         <lastmod>2013-04-29T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>http://seanoliver.me/apple-ads/</loc>
+        <loc>/apple-ads/</loc>
         <lastmod>2012-07-30T00:00:00-07:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>

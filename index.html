@@ -1,19 +1,22 @@
 ---
 layout: default
-title: Sean Oliver
-tags: [marketing, startups, products, entrepreneurship, growth, hacking, productivity, life, blog]
-excerpt: I'm a product marketer in San Francisco blogging about marketing, products, productivity, and life.
-date: 2014-03-08
+title: Homepage
 ---
 
-{% for post in site.posts %}
-<div class='{% if post == site.posts.last %}post-listing-noline{% else %}post-listing{% endif %}'>
-	<h3 class='lato-light uppercase'>
-		<small>{{ post.date | date: "%b %d %Y" }}</small><br />
-		<a class='title' href="{{ post.url }}">{{ post.title }}</a>
-	</h3>
-	<p class='lato-light'>
-		{{ post.excerpt | strip_html }}
-	</p>
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li itemscope itemtype="http://schema.org/BlogPosting">
+        <a href="{{ site.url }}{{ post.url }}" itemprop="url">
+          <div class="p-wrap">
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="date"
+                itemprop="datePublished">
+              {{ post.date | date_to_string }}
+            </time>
+            <p itemprop="name headline">{{ post.title }}</p>
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
-{% endfor %}

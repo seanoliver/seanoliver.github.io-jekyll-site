@@ -1,11 +1,14 @@
 name: Sean Oliver
+description: "Blogging about marketing, startups, and life."
+
 markdown: redcarpet
 pygments: true
 
+author: Sean Oliver
+
 exclude: ["archive"]
 
-baseurl: /
-url: http://seanoliver.me
+# url: http://seanoliver.me
 
 social:
   twitter: seanoliver
@@ -28,3 +31,6 @@ links:
     external: true
 
 permalink:   /:title
+
+ga_tracking_id: UA-4197322-3
+ga_domain: seanoliver.me
